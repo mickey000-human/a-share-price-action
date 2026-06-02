@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 配置文件（含凭证）
+config.py
+
+# 数据缓存
+*.db
+*.sqlite
+
+# 系统
+.DS_Store
+Thumbs.db
